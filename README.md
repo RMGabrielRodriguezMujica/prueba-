@@ -1,3 +1,10 @@
+desarrollo_dos
+[Sebastian Matto] - Revisor de Código (Code Reviewer)
+*Contribución en el Proyecto:*
+* *Auditoría de Calidad:* Revisión exhaustiva de los Pull Requests a través de la pestaña Files changed en GitHub.
+* *Control de Estándares:* Verificación de que el código sea funcional, que las resoluciones de conflictos de la Persona 3 sean correctas, y que el .gitignore esté excluyendo la basura adecuadamente.
+* *Aprobación:* Emisión de feedback constructivo y aprobación final de los cambios.
+
 ### 👑 Gabriel Rodriguez 1 - Gestor del Repositorio
 **Contribución en el Proyecto:**
 * **Configuración Inicial:** Creación del repositorio en GitHub, inicialización del archivo `README.md` y configuración del `.gitignore` (plantilla de Python) para mantener el proyecto limpio de archivos innecesarios.
@@ -9,3 +16,4 @@
 * **Desarrollo Inicial:** Creación de la rama `feature/desarrolo` y escritura del código base.
 * **Documentación:** Actualización de esta sección en el `README.md` utilizando formato Markdown para registrar los primeros cambios del código.
 * **Control de Versiones:** Ejecución de commits atómicos (`git commit -m`) y subida de la primera rama al repositorio remoto para abrir el primer Pull Request sin conflictos.
+main
